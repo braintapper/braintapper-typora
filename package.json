@@ -1,0 +1,29 @@
+{
+  "name": "braintapper-typora",
+  "version": "1.0.0",
+  "description": "This is the Braintapper Theme for Typora.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.4.1",
+    "gulp": "^4.0.2",
+    "gulp-mini-css": "0.0.3",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0",
+    "sugar": "^2.0.6",
+    "sugar-inflections": "^2.0.6",
+    "sugar-language": "^2.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/braintapper/braintapper-typora.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/braintapper/braintapper-typora/issues"
+  },
+  "homepage": "https://github.com/braintapper/braintapper-typora#readme"
+}

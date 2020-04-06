@@ -1,6 +1,6 @@
-# Theme Toolkit
+# Braintapper Typora Theme
 
-This toolkit contains a simple theme template, and sample `.md` file for testing and some HTML files for designers/developers to preview/debug css theme right inside their browser.
+This is the Braintapper Theme for Typora.
 
 ## How to use
 
@@ -38,6 +38,3 @@ If you find bugs, or issues, or require some `class` for rendered HTML Dom in ty
 
 - Put it into <https://github.com/typora/typora-issues/issues>
 - Contact us via <hi@typora.io>
-
-
-
